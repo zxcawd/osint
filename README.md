@@ -1,7 +1,7 @@
 # osint
 легенькая маленькая программа которая ищет по номеру gmail по нику и ip
 
-![image](https://github.com/user-attachments/assets/70148a3d-7957-4e24-a643-d6fe5d830652)
+![image](https://github.com/user-attachments/assets/e98ce78e-2590-49f6-bbf0-8d3c995dbdb0)
 
 download: https://drive.google.com/file/d/1Gmw-4590JBcRpTOXAJulahC9SZAVA5Me/view?usp=drive_link
 
